@@ -25,8 +25,8 @@ define(function (require, exports, module) {
     }
     
     // register commands
-    var TO_LOWER_CASE = 'markhillard.caseconverter.toLowerCase',
-        TO_UPPER_CASE = 'markhillard.caseconverter.toUpperCase';
+    var TO_LOWER_CASE = 'markhillard.brackets.caseconverter.toLowerCase',
+        TO_UPPER_CASE = 'markhillard.brackets.caseconverter.toUpperCase';
         
     CommandManager.register('To Lower Case', TO_LOWER_CASE, function () { convertCase('l') });
     CommandManager.register('To Upper Case', TO_UPPER_CASE, function () { convertCase('u') });
