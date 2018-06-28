@@ -1,0 +1,24 @@
+{
+    "name": "markhillard.brackets.caseconverter",
+    "title": "Brackets Case Converter",
+    "description": "Brackets extension that converts the case of your selected text.",
+    "homepage": "https://github.com/markhillard/brackets-caseconverter",
+    "version": "1.0.0",
+    "author": "Mark Hillard (https://github.com/markhillard)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=1.13.x"
+    },
+    "keywords": [
+        "case",
+        "convert",
+        "converter",
+        "conversion",
+        "lowercase",
+        "uppercase"
+    ],
+    "categories": [
+        "editing",
+        "formatting"
+    ]
+}
