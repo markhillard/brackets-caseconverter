@@ -40,5 +40,4 @@ define(function (require, exports, module) {
     menu.addMenuDivider();
     menu.addMenuItem(TO_LOWER_CASE);
     menu.addMenuItem(TO_UPPER_CASE);
-    menu.addMenuDivider();
 });
