@@ -1,6 +1,6 @@
 # Brackets Case Converter
 
-[![brackets-caseconverter releases](https://img.shields.io/github/release/markhillard/brackets-caseconverter.svg)](https://github.com/markhillard/brackets-caseconverter/releases) [![brackets-caseconverter downloads](https://badges.ml/markhillard.brackets.caseconverter/total.svg?do_not_track)](https://brackets-extension-badges.github.io#markhillard.brackets.caseconverter)
+[![brackets-caseconverter releases](https://img.shields.io/github/release/markhillard/brackets-caseconverter.svg)](https://github.com/markhillard/brackets-caseconverter/releases)
 
 This is a [Brackets](http://brackets.io/) extension that converts the case of your selected text (lower case or upper case).
 
